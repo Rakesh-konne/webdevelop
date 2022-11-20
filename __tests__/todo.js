@@ -1,3 +1,4 @@
+ /* eslint-disable no undef */ 
  var dateToday = new Date()
 const todoList=require('../todo');
 
